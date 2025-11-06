@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import json
 from pathlib import Path
-from typing import Iterable, List, Sequence
+from typing import List
 
 
 def _format_timestamp(seconds: float) -> str:
